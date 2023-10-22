@@ -1,7 +1,4 @@
-# Name: Vishal Kumar
-# Clg: IIT MADRAS
-# Department: Chemical
-# RollNo.: CH21B115
+# Name: Vishal Kumar ,  IIT MADRAS ,  Department: Chemical , RollNo.: CH21B115
 
 # Getting Started with Create React App
 
